@@ -1,0 +1,42 @@
+h1 {
+  font-size: 70px;
+  font-family: helvetica;
+  font-weight: bold;
+  color: white;
+    }
+
+ .title {
+   font-family: helvetica;
+   color: white;
+   font-weight: bold;
+   font-size: 23px;
+   background-image: url("/Users/thirdofthesan/Desktop/Projects/Broadway/resources/image/the-flatiron-building.png");
+ }
+body {
+  text-align: center;
+}
+
+a {
+  color: white;
+  font-family: helvetica;
+}
+
+
+p {
+  font-family: helvetica;
+  font-size: 14px;
+}
+
+h4 {
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+    }
+
+  .footer {
+    font-size: 11px;
+    font-family: helvetica;
+    background-color: dimgray;
+    color: white;
+    text-align: left;
+  }
