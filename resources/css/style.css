@@ -10,7 +10,7 @@ h1 {
    color: white;
    font-weight: bold;
    font-size: 23px;
-   background-image: url("/Users/thirdofthesan/Desktop/Projects/Broadway/resources/image/the-flatiron-building.png");
+   background-image: url("resources/image/the-flatiron-building.png");
  }
 body {
   text-align: center;
