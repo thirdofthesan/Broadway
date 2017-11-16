@@ -10,7 +10,7 @@ h1 {
    color: white;
    font-weight: bold;
    font-size: 23px;
-   background-image: url("resources/image/the-flatiron-building.png");
+   background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png');
  }
 body {
   text-align: center;
